@@ -21,7 +21,6 @@ from jax import lax
 from jax import random
 from jax.scipy.special import expit
 import jax.numpy as np
-from jax import jarrett
 
 # activations
 
